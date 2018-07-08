@@ -7,4 +7,4 @@ This is based on the paper:
 > Lechao Xiao, Yasaman Bahri, Jascha Sohl-Dickstein, Samuel S. Schoenholz, Jeffrey Pennington<br>
 > International Conference on Machine Learnig, 2017 [arXiv/1806.05393](https://arxiv.org/pdf/1806.05393.pdf)
 
-This is not an official Google product
+This is not an official Google product.
